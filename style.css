@@ -1,0 +1,7 @@
+		.hvr{
+			transition: 0.6s background-color;
+		}
+
+		.hvr:hover{
+			background-color: red;
+		}
